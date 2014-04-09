@@ -1,6 +1,0 @@
-datasciencecoursera
-===================
-
-datasciencecoursera
-
-getwd()
